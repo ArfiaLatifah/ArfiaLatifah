@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/arfia_latifah_1831710127"
+        android:text="Arfia Latifah/1831710127"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.471"
         app:layout_constraintLeft_toLeftOf="parent"
